@@ -450,7 +450,7 @@ footer i:hover {
 @media screen and (max-width: 575px) {
   header {
     margin: 0 0 -80px;
-    width: auto;
+    width: 100%;
   }
 
   h1 {
